@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Galibier';
+    src: url('Galibier-Bold.eot');
+    src: local('Galibier Bold'), local('Galibier-Bold'),
+        url('Galibier-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Galibier-Bold.woff2') format('woff2'),
+        url('Galibier-Bold.woff') format('woff'),
+        url('Galibier-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galibier';
+    src: url('Galibier-Regular.eot');
+    src: local('Galibier Regular'), local('Galibier-Regular'),
+        url('Galibier-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Galibier-Regular.woff2') format('woff2'),
+        url('Galibier-Regular.woff') format('woff'),
+        url('Galibier-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Galibier';
+    src: url('Galibier-Light.eot');
+    src: local('Galibier Light'), local('Galibier-Light'),
+        url('Galibier-Light.eot?#iefix') format('embedded-opentype'),
+        url('Galibier-Light.woff2') format('woff2'),
+        url('Galibier-Light.woff') format('woff'),
+        url('Galibier-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
